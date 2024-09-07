@@ -1,0 +1,7 @@
+C:\Users\Jay Phillips\OneDrive\Documents\Visual Studio 2022\Projects\Jay's RPG Game\Engine\bin\Debug\Engine.dll
+C:\Users\Jay Phillips\OneDrive\Documents\Visual Studio 2022\Projects\Jay's RPG Game\Engine\bin\Debug\Engine.pdb
+C:\Users\Jay Phillips\OneDrive\Documents\Visual Studio 2022\Projects\Jay's RPG Game\Engine\obj\Debug\Engine.csproj.AssemblyReference.cache
+C:\Users\Jay Phillips\OneDrive\Documents\Visual Studio 2022\Projects\Jay's RPG Game\Engine\obj\Debug\Engine.g.resources
+C:\Users\Jay Phillips\OneDrive\Documents\Visual Studio 2022\Projects\Jay's RPG Game\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Jay Phillips\OneDrive\Documents\Visual Studio 2022\Projects\Jay's RPG Game\Engine\obj\Debug\Engine.dll
+C:\Users\Jay Phillips\OneDrive\Documents\Visual Studio 2022\Projects\Jay's RPG Game\Engine\obj\Debug\Engine.pdb
